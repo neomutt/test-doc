@@ -1,0 +1,36 @@
+# Where things are
+source:       .
+destination:  ./_site
+layouts_dir:  ./_layouts
+includes_dir: ./_includes
+
+title: NeoMutt
+name: NeoMutt
+email: rich@flatcap.org
+description: Teaching an Old Dog New Tricks
+
+url: http://neomutt.org/test-doc/
+
+baseurl: ''
+github_username:  neomutt
+github: 'neomutt/neomutt'
+
+highlighter: rouge
+markdown: kramdown
+
+timezone: UTC
+
+permalink: /:year/:month/:day/:title
+excerpt_separator: ""
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+
+exclude:
+  - tags*
+
