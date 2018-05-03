@@ -14,6 +14,6 @@ blurb...
 
 | Panel | Description |
 | :---  | :---        |
-{% for p in site.panel %}| **[{{ p.title }}]({{ p.url }})** | {{ p.description }} |
+{% for p in site.panel %}| **[{{ p.title }}]({{ site.baseurl }}{{ p.url }})** | {{ p.description }} |
 {% endfor %}
 

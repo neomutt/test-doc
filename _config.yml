@@ -9,9 +9,9 @@ name: NeoMutt
 email: rich@flatcap.org
 description: Teaching an Old Dog New Tricks
 
-url: http://neomutt.org/test-doc/
+url: https://neomutt.org/
 
-baseurl: ''
+baseurl: '/test-doc'
 github_username:  neomutt
 github: 'neomutt/neomutt'
 

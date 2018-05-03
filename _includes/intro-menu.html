@@ -1,4 +1,4 @@
-<h1><a {% if page.url == '/intro' %} class="current" {% endif %} href="/intro.html">Intros</a></h1>
+<h1><a {% if page.url == '{{ site.baseurl }}/intro' %} class="current" {% endif %} href="{{ site.baseurl }}/intro.html">Intros</a></h1>
 
 {% assign parts = page.url | split: '/' %}
 

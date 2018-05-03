@@ -14,6 +14,6 @@ blurb...
 
 | Howto | Description |
 | :---  | :---        |
-{% for p in site.howto %}| **[{{ p.title }}]({{ p.url }})** | {{ p.description }} |
+{% for p in site.howto %}| **[{{ p.title }}]({{ site.baseurl }}{{ p.url }})** | {{ p.description }} |
 {% endfor %}
 
