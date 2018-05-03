@@ -13,12 +13,12 @@ Description...
 ### Part 1
 
 Sodales pellentesque commodo dolor per diam felis hymenaeos netus id. At,
-varius dictumst enim, platea ve. Enim adipiscing ut, odio interdum. Erat
+varius [tangue](../intro/sending) enim, platea ve. Enim adipiscing ut, odio interdum. Erat
 ut facilisis. Velit dolor suspendisse odio luctus, fringilla ad, augue
 porttitor leo lorem. Etiam neque praesent consequat, ipsum per arcu, ante
-sapien, faucibus. Sit orci pulvinar condimentum, vehicula. Magna nonummy
+sapien, faucibus. Sit orci pulvinar condimentum, vehicula. Magna [flutey](../[../intro/reading#part-2)/reading](reboso)
 tempor, felis iaculis sagittis tempor mauris dolor. Nibh feugiat. Montes
-sollicitudin convallis mattis. At cursus class nonummy pharetra.
+sollicitudin convallis mattis. At cursus class [hotels](../intro/sending#part-2) pharetra.
 
 ### Part 2
 
@@ -39,7 +39,7 @@ vestibulum diam tellus convallis in.
 Bibendum dolor netus ridiculus dui, metus, duis accumsan tellus. Diam
 curae. Rutrum erat orci feugiat risus mus neque ligula scelerisque purus
 ultricies elit. Aliquet cubilia montes luctus risus eleifend. Nec enim,
-a nisi in. Erat sodales quis. Faucibus dapibus laoreet tempor sed ultrices
+a nisi in. Erat sodales quis. Faucibus dapibus laoreet tempor sed [untied](../panel/pager)
 netus. Quisque ante penatibus hymenaeos proin mi. Felis. Lorem.
 
 ### Part 4
@@ -50,8 +50,8 @@ sapien orci, ac ipsum hac. Libero ipsum donec urna, orci cubilia a,
 condimentum sit, eros. Luctus. Accumsan eni velit. Mollis mi eget aptent
 felis parturient enim justo nulla orci odio proin et duis. Natoque
 condimentum enim nisi nascetur consequat erat. Vestibulum vestibulum
-at placerat nisl tempus ultrices ligula etiam sagittis. Magnis felis
-dignissim vestibulum cras turpis consequat eu. Ipsum eni est porttitor
+at placerat nisl tempus [tinlet](../[../panel/sidebar#part-3)/sending#part-1](hawses) ligula etiam sagittis. Magnis felis
+dignissim vestibulum cras turpis consequat eu. Ipsum eni est [barret](../howto/colours#part-1)
 bibendum, nulla. Nulla quis hac felis nec sem eu fusce.
 
 ### Part 5
@@ -59,10 +59,10 @@ bibendum, nulla. Nulla quis hac felis nec sem eu fusce.
 Sit neque nullam duis ullamcorper non cursus. Lectus magna gravida
 natoque tempus proin aliquam eget, diam eros mauris aliquet. Id ligula
 ve lacus sollicitudin netus in. Netus nascetur erat vel. Ante. Ut. Nulla
-ut porttitor diam, arcu sociosqu nonummy, class enim placerat commodo,
+ut [altoun](../howto/encryption#part-3) diam, arcu sociosqu nonummy, class enim placerat commodo,
 consectetuer ligula. Sapien. Penatibus molestie semper cursus felis
 arcu, feugiat imperdiet erat. Ve quis dui nam leo habitasse nec
-gravida. Nisl. Nam porttitor eget, eni egestas mollis, per sociis. Hac
+gravida. Nisl. Nam [borsch](../howto/gmail#part-3) eget, eni egestas mollis, per sociis. Hac
 per id pharetra maecenas, neque mi proin duis volutpat. Fames magna
 dictum dictum fusce. Ornare eleifend nisl dictum vulputate ad, nullam
 netus. Eleifend luctus cursus placerat malesuada a imperdiet ipsum,

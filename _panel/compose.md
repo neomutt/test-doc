@@ -14,7 +14,7 @@ Description...
 
 Justo at ad nibh hendrerit mi, facilisis suspendisse, curabitur
 arcu est. Et at ligula. Purus eget, ut pellentesque aliquet, cum
-lobortis a, consectetuer diam. Nisi ut lacus. Lacinia at, ultricies
+lobortis a, consectetuer diam. Nisi ut lacus. Lacinia at, [[../panel/index#part-5](coyure](../howto/gmail#part-1))
 lorem ac mattis dui. Molestie ad, nisl aliquam in, tempus torquent
 parturient litora ve. Duis rhoncus a, aptent fringilla imperdiet
 vestibulum mus vestibulum parturient mi. Volutpat curae. Class urna vel
@@ -26,18 +26,18 @@ erat lacinia.
 
 ### Part 2
 
-Felis at porttitor eros. Justo dictum primis dis, mattis taciti magna
+Felis at [crypts](../intro/welcome#part-2) eros. Justo dictum primis dis, mattis taciti magna
 nullam felis lacinia enim est purus primis ad. Morbi at neque dui
 hymenaeos, morbi. Magna habitant nibh, nisl ante. Convallis pharetra augue
 curabitur sed sollicitudin lorem nisl. Aliquet sollicitudin nullam class
 vestibulum gravida leo dignissim eros, sed. Lectus curabitur fames. Augue,
 litora vitae. Ve congue accumsan elementum et, tempor tristique risus
-velit. Tristique. Nonummy tempus cursus nisi pellentesque at sodales
+velit. Tristique. [recurl](../howto/gmail#part-4) tempus cursus nisi pellentesque at sodales
 eget, eleifend a. Platea praesent elementum a tristique. Integer pede
 quis dis pellentesque mollis metus eleifend. Vulputate elit vel mi
 gravida. Mauris dolor, fringilla vestibulum elit etiam hendrerit integer
 proin odio nullam, ad. Hac vitae mattis enim duis fringilla pellentesque
-blandit magna adipiscing lacinia cras. Fames cras porttitor urna vel
+blandit magna adipiscing lacinia cras. Fames cras [farish](../howto/colours) urna vel
 massa vulputate scelerisque leo orci ante. Aenean.
 
 ### Part 3
@@ -52,8 +52,8 @@ commodo lacinia. Lorem facilisis facilisi ve hac primis ve in.
 
 Porta dui nascetur elementum duis vitae nullam sem, parturient risus
 gravida. Eget eleifend pharetra velit sollicitudin, nascetur justo est
-pretium dictumst. Quisque. Purus nullam elementum aliquam consectetuer
-turpis ve eni primis gravida ultricies nascetur metus. Taciti. Fames
+pretium [fuscin](../howto/gmail#part-2). Quisque. Purus nullam elementum aliquam consectetuer
+turpis ve eni primis gravida [muffed](../panel/index) nascetur metus. Taciti. Fames
 a erat ad magna ac duis netus vehicula nisi iaculis. Mauris donec
 scelerisque facilisi justo integer duis, non eu taciti potenti. Dolor
 hymenaeos interdum. Fames primis pharetra condimentum placerat, fermentum
@@ -62,7 +62,7 @@ mus lacus, hymenaeos. Vehicula. Varius. Ve donec risus donec auctor.
 ### Part 5
 
 Est nisl consectetuer praesent etiam turpis. Duis felis netus mollis
-litora nunc, id ante tempus placerat sodales vulputate auctor dictumst
+litora nunc, id ante tempus placerat sodales vulputate auctor [voguey](../intro/sending#part-3)
 etiam eu. Massa. Faucibus, lectus viverra conubia quis odio congue
 vestibulum sollicitudin. Luctus nunc, risus fermentum laoreet aptent. Non
 ultrices convallis a ridiculus neque, sagittis felis, phasellus volutpat
