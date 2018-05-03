@@ -12,19 +12,8 @@ Description...
 
 blurb...
 
-<table summary="list of panels">
-  <thead>
-    <tr>
-      <th>Panel</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for p in site.panel %}
-      <tr>
-        <td><a href="{{ p.url }}">{{ p.title }}</a></td>
-        <td>{{ p.description }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+| Panel | Description |
+| :---  | :---        |
+{% for p in site.panel %}| **[{{ p.title }}]({{ p.url }})** | {{ p.description }} |
+{% endfor %}
+
