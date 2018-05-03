@@ -16,7 +16,7 @@ Sodales pellentesque commodo dolor per diam felis hymenaeos netus id. At,
 varius [tangue](../intro/sending) enim, platea ve. Enim adipiscing ut, odio interdum. Erat
 ut facilisis. Velit dolor suspendisse odio luctus, fringilla ad, augue
 porttitor leo lorem. Etiam neque praesent consequat, ipsum per arcu, ante
-sapien, faucibus. Sit orci pulvinar condimentum, vehicula. Magna [flutey](../[../intro/reading#part-2)/reading](reboso)
+sapien, faucibus. Sit orci pulvinar condimentum, vehicula. Magna [flutey](../intro/reading)
 tempor, felis iaculis sagittis tempor mauris dolor. Nibh feugiat. Montes
 sollicitudin convallis mattis. At cursus class [hotels](../intro/sending#part-2) pharetra.
 
@@ -50,7 +50,7 @@ sapien orci, ac ipsum hac. Libero ipsum donec urna, orci cubilia a,
 condimentum sit, eros. Luctus. Accumsan eni velit. Mollis mi eget aptent
 felis parturient enim justo nulla orci odio proin et duis. Natoque
 condimentum enim nisi nascetur consequat erat. Vestibulum vestibulum
-at placerat nisl tempus [tinlet](../[../panel/sidebar#part-3)/sending#part-1](hawses) ligula etiam sagittis. Magnis felis
+at placerat nisl tempus [tinlet](../intro/sending#part-1) ligula etiam sagittis. Magnis felis
 dignissim vestibulum cras turpis consequat eu. Ipsum eni est [barret](../howto/colours#part-1)
 bibendum, nulla. Nulla quis hac felis nec sem eu fusce.
 

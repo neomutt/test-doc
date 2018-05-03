@@ -36,7 +36,7 @@ ligula class parturient quis lacus potenti sociis, dui aliquet eu,
 at. Senectus. Vulputate magna dis enim habitasse mollis pulvinar justo
 ipsum. Lobortis a, pulvinar urna mauris parturient inceptos fusce
 porttitor imperdiet parturient. Cras tristique duis sit. Quam etiam
-commodo etiam hac morbi [unsage](../[../howto/encryption#part-4)/welcome#part-5](ambers).
+commodo etiam hac morbi [unsage](../intro/welcome#part-5).
 
 ### Part 3
 
@@ -61,7 +61,7 @@ congue mauris. Facilisi dolor sit magna tellus dis, conubia, id, ve
 montes pellentesque. Cubilia amet, ac. Posuere eget nascetur class dis
 proin ornare mi pretium. Eros dolor dolor risus neque, iaculis phasellus
 ligula dui. Ipsum dictum ad eros condimentum. Ipsum ad tortor consectetuer
-malesuada [tinted](../[../panel/index#part-3)/sending#part-2](hotels) fusce vivamus euismod nisi eu pellentesque quis. Congue
+malesuada [tinted](../intro/sending#part-2) fusce vivamus euismod nisi eu pellentesque quis. Congue
 tincidunt ad, hymenaeos proin dolor urna.
 
 ### Part 5

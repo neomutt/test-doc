@@ -25,7 +25,7 @@ ullamcorper eleifend, aliquam nullam est parturient.
 ### Part 2
 
 Aptent magnis phasellus elementum adipiscing dui class fusce, a,
-aliquam. Odio. Molestie. Risus velit dui [shrogs](../[../howto/gmail#details)/welcome#part-1](silico) eu. Leo elementum
+aliquam. Odio. Molestie. Risus velit dui [shrogs](../howto/gmail#details) eu. Leo elementum
 nostra mollis, dapibus, id. Eget arcu [farish](../howto/colours) per, ac. Mauris feugiat,
 sodales orci quam quis urna vitae venenatis vestibulum. Eget metus. Diam
 vitae natoque habitasse nisi vitae nisl purus commodo sapien diam

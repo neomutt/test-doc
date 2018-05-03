@@ -14,7 +14,7 @@ Description...
 
 Justo at ad nibh hendrerit mi, facilisis suspendisse, curabitur
 arcu est. Et at ligula. Purus eget, ut pellentesque aliquet, cum
-lobortis a, consectetuer diam. Nisi ut lacus. Lacinia at, [[../panel/index#part-5](coyure](../howto/gmail#part-1))
+lobortis a, consectetuer diam. Nisi ut lacus. Lacinia at, [coyure](../panel/index#part-5)
 lorem ac mattis dui. Molestie ad, nisl aliquam in, tempus torquent
 parturient litora ve. Duis rhoncus a, aptent fringilla imperdiet
 vestibulum mus vestibulum parturient mi. Volutpat curae. Class urna vel

@@ -54,7 +54,7 @@ nisi condimentum quisque suspendisse. Dis, nunc in netus eni purus
 facilisis. Arcu ut dignissim magna suscipit erat et class id nullam et
 eget lacus. Diam libero volutpat facilisis interdum et. Et non eros
 sem euismod in, tempor sem adipiscing at, eleifend class venenatis
-primis [embale](../[../howto/encryption#part-2)/sending#part-4](zeroes). Hymenaeos convallis duis sit mauris gravida mus. Eni
+primis [embale](../howto/encryption#part-2). Hymenaeos convallis duis sit mauris gravida mus. Eni
 pellentesque [voguey](../intro/sending#part-3) congue. Nibh fames ligula velit blandit elit ac
 habitant odio mus. Torquent sollicitudin, sociis et volutpat. Consectetuer
 luctus, lacus egestas sed, semper. Taciti hac, diam vestibulum. Dignissim

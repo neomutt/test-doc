@@ -5,11 +5,12 @@
     <meta charset="UTF-8">
     <title>{{ page.title }} - {{ site.name }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="/test-doc/js/jquery.min.js"></script>
-    <script src="/test-doc/js/bootstrap.min.js"></script>
-    <link href="/test-doc/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="/test-doc/css/theme.css" rel="stylesheet" type="text/css">
-    <link href="/test-doc/css/syntax.css" rel="stylesheet" type="text/css">
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/js/anchor.min.js"></script>
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}/css/theme.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}/css/syntax.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 </head>
 
@@ -18,7 +19,7 @@
 <div class="container-fluid">
     <div class="row-fluid">
         <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-            <a class="navbar-brand" href="/test-doc/">{{ site.name }}</a>
+		<a class="navbar-brand" href="{{ site.baseurl }}">{{ site.name }}</a>
 
             <div class="navbar-header">
               <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
