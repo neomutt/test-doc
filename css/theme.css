@@ -312,8 +312,28 @@ span.donate {
   border-radius: 10px;
 }
 
-img.improve {
+div.improve {
   float: right;
   margin-right: -15px;
-  opacity: 0.3;
 }
+
+div.improve span {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #444;
+  visibility: hidden;
+}
+
+div.improve:hover span {
+  visibility: visible;
+  padding-right: 0.5em;
+}
+
+div.improve img {
+  opacity: 0.2;
+}
+
+div.improve:hover img {
+  opacity: 1;
+}
+
