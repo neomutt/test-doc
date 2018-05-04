@@ -12,8 +12,9 @@ Description...
 
 blurb...
 
-| Howto | Description |
-| :---  | :---        |
-{% for p in site.howto %}| **[{{ p.title }}]({{ site.baseurl }}{{ p.url }})** | {{ p.description }} |
-{% endfor %}
+| Howto                          | Description                         |
+| :----------------------------- | :---------------------------------- |
+| [Colours](howto/colours)       | How to theme NeoMutt                |
+| [Encryption](howto/encryption) | How to Send/Receive encrypted email |
+| [GMail](howto/gmail)           | How to talk to GMail                |
 

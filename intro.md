@@ -12,8 +12,9 @@ Description...
 
 blurb...
 
-| Intro | Description |
-| :---  | :---        |
-{% for p in site.intro %}| **[{{ p.title }}]({{ site.baseurl }}{{ p.url }})** | {{ p.description }} |
-{% endfor %}
+| Intro                    | Description              |
+| :----------------------- | :----------------------- |
+| [Welcome](intro/welcome) | Thanks for using NeoMutt |
+| [Reading](intro/reading) | How to read email        |
+| [Sending](intro/sending) | How to send email        |
 

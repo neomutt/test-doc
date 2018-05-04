@@ -34,10 +34,3 @@ kramdown:
 exclude:
   - tags*
 
-collections:
-  intro:
-    output: true
-  howto:
-    output: true
-  panel:
-    output: true

@@ -1,12 +1,13 @@
-<h1><a {% if page.url == '{{ site.baseurl }}/panel' %} class="current" {% endif %} href="{{ site.baseurl }}/panel.html">Panels</a></h1>
+<h1><a {% if page.url == '/panel' %} class="current" {% endif %} href="{{ site.baseurl }}/panel.html">Panels</a></h1>
 
 {% assign parts = page.url | split: '/' %}
 
 {% if parts[1] == 'panel' %}
   <ul>
-    {% for f in site.panel %}
-    {% include list-bold.html lb_path=f.url lb_title=f.title %}
-    {% endfor %}
+    {% include list-bold.html lb_path="/panel/compose" lb_title="Compose" %} 
+    {% include list-bold.html lb_path="/panel/"        lb_title="Index"   %} 
+    {% include list-bold.html lb_path="/panel/pager"   lb_title="Pager"   %} 
+    {% include list-bold.html lb_path="/panel/sidebar" lb_title="Sidebar" %} 
   </ul>
 {% endif %}
 
