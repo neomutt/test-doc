@@ -24,9 +24,22 @@ file and set your data.
 Setting up your name and your E-Mail-Address:
 
 	set realname = "Firstname Lastname"
-	set from="mailbox@domain.tld"
+	set from     = "mailbox@domain.tld"
+
+Setting up `realname` and `from` will set the `From:`-Header:
+
+	From: Firstname Lastname <mailbox@domain.tld> 
 
 The `spoolfile` must be set to the IMAP Server:
 
 	set spoolfile="imaps://imap.domain.tld/"
+
+You may set that the `spoolfile` as one of your mailboxes:
+
+	 mailboxes $spoolfile
+
+There exits two variables for the IMAP user and password:
+
+	set imap_user = "your_imap_user"
+	set imap_pass = "your_imap_passwd"
 
