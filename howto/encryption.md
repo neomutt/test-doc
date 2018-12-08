@@ -6,23 +6,30 @@ description: How to Send/Receive encrypted email
 
 # {{ page.title }}
 
-Description...
+How to Send/Receive encrypted email (OpenPGP, GnuPG, S/MIME)
 
-## Details
+## Basics
 
-### Part 1
+### Cryptology
 
-Feugiat natoque litora tristique id, ve tristique augue. Mauris,
-aenean, eni, dis consectetuer. Ipsum convallis leo duis nunc, cum
-odio vitae sociosqu augue ac vulputate. Felis auctor nisl et. Massa
-in tortor ut, sociis a. Mauris enim massa aptent aptent fusce sit
-montes. Ullamcorper. Et dictum mi netus quam natoque, enim, vivamus
-varius. Id eros et quam erat nam donec. Morbi potenti. Dis laoreet
-risus nulla malesuada tempor malesuada ridiculus adipiscing. Dapibus
-odio ve eros eu per curabitur interdum, in morbi ve urna enim dis. Dolor
-ullamcorper eleifend, aliquam nullam est parturient.
+Cryptology ensures privacy, integrity and authenticity of your data
+and communication.
 
-### Part 2
+* If you are signing your email the recipient is able to validate
+  content and sender. The recipient can be sure, that the received
+  message has been send by the person and the content hasn't been
+  manipulate. 
+* If you encrypt a message, the message can just be read by the
+  recipient. You are able to protect your privacy.
+
+## Cryptology via OpenPGP / GnuPG
+
+### Overview
+
+OpenPGP is a Standard defined in RFCs. GnuPG is a software to
+implement those standards. 
+
+### Generate a key-pair
 
 Aptent magnis phasellus elementum adipiscing dui class fusce, a,
 aliquam. Odio. Molestie. Risus velit dui [shrogs](../howto/gmail#details) eu. Leo elementum
