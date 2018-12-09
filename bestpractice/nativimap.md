@@ -43,3 +43,35 @@ There exits two variables for the IMAP user and password:
 	set imap_user = "your_imap_user"
 	set imap_pass = "your_imap_passwd"
 
+The `smtp_url` can be used to define the SMTP Server  
+
+	set smtp_url  = "smtp://user:pwd@smtp.domain.tld:587"
+
+You may like to store all information on the IMAP Server:
+
+	set folder     = $spoolfile
+	set postponed  = "+Drafts"
+	set record     = "+Sent"
+	set trash      = "+Trash"
+
+	mailboxes $postponed $record $trash
+
+## Start neomutt
+
+If this configuration is not your default setting of neomutt, you can
+store the file somewhere and use the `-F` parameter to define fine the
+configuration.
+
+	$ neomutt -F neomuttrc-imap
+
+Neomutt will create a connection to your remote IMAP Server displays
+the messages in the [index panel](../panel/index.html).
+
+## Details
+
+### Using the cache
+
+## Good to know
+
+
+
