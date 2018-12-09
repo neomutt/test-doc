@@ -10,7 +10,10 @@ The appendix
 
 ## Listing
 
-| Panel                                  | Description                                    |
-| :------------------------------------- | :--------------------------------------------- |
-| [Nativ IMAP](bestpractice/nativimap)   | Nativ IMAP                                     |
+| Panel                                             | Description                                    |
+| :------------------------------------------------ | :--------------------------------------------- |
+| [Native IMAP](bestpractice/nativimap)             | Native IMAP                                    |
+| [Multi Profile](bestpractice/multiprofile)        | Multi Profile setup for Accounts               |
+| [getmail, notmuch](bestpractice/getmailnotmuch)   | Setup getmail, procmail and notmuch            |
+
 
