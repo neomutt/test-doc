@@ -71,6 +71,28 @@ the messages in the [index panel](../panel/index.html).
 
 ### Using the cache
 
+### Mutli Accounts
+
+Start with a basic configuration `neomuttrc`. Add two mailboxes.
+Assume you have one E-Mail ID mailbox@domain1.tld and
+mailbox@domain2.tld. The first is provided by provider1, the second is
+provided by provider2.
+
+	mailboxes 'imaps://mailbox@domain1.tld@imap.provider1.tld'
+	mailboxes 'imaps://mailbox@domain2.tld@imap.provider2.tld'
+
+When you start neomutt, you can see those mailboxes by pressing `c?`.
+
+	account-hook 'mailbox@domain1\.tld@imap\.provider1\.tld'  "source ~/.neomutt/neomuttrc-imap-1"
+	account-hook 'mailbox@domain2\.tld@imap\.provider2\.tld'  "source ~/.neomutt/neomuttrc-imap-2"
+
+You should add the following information to your imap profile file.
+
+	set folder="imaps://mailbox@domain1.tld@imap.provider1.tld/"
+	set spoolfile = $folder
+	account-hook $folder "set imap_user=mailbox@domain1.tld"; set imap_pass='yourpasswd'
+	color status     brightgreen    green
+
 ## Good to know
 
 
