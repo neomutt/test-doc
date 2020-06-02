@@ -50,7 +50,7 @@ folder-hooks to switch the profile, if you change the mailbox.
 	folder-hook "Inbox-Private"  'source ~/.neomutt/profile.private'
 	folder-hook "Inbox-Business" 'source ~/.neomutt/profile.business'
 
-You may have some contacts in you alias file:
+You may have some contacts in your alias file:
 
 	alias Lastname.Firstname Firstname Lastname <mailbox@domain.tld>
 You can add groups on the accounts.
