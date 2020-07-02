@@ -38,6 +38,7 @@ You can setup each profile like the example below:
 	set smtp_url  ="smtp://user:pwd@smtp.domain.tld"
 
 	color status     brightgreen    blue
+	echo "Sending mail as mailbox@domain.tld"
 
 ### Hooks
 
@@ -87,4 +88,6 @@ between the accounts on neomutt's status color
 	color status     brightgreen    red 	# business
 	color status     brightgreen    blue	# private
 
+### Echoing
 
+`echo` lets you print messages to the message window. You can use to print the mail address you switched your configuration to.
