@@ -61,7 +61,7 @@ mails and notmuch to index your mails and build virtual mailboxes.
 
 ### neomutt
 
-	set nm_default_uri = "notmuch:///home/user/.maildir"
+	set nm_default_url = "notmuch:///home/user/.maildir"
 	set virtual_spoolfile=yes
 	unmailboxes *
 	virtual-mailboxes "Eingang" "notmuch://?query=tag:inbox"
