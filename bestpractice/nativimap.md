@@ -12,7 +12,7 @@ Neomutt with native IMAP
 
 Do you like to try neomutt or you just would like to access your
 E-Mails which are stored on an IMAP Server? In this case the native
-IMAP Support of neomutt may the best way to access your mails.
+IMAP Support of neomutt may be the best way to access your mails.
 
 ## Configuration
 
